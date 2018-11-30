@@ -33,7 +33,7 @@ insert into racun(id,redniBroj,datum,operater) values
 (1,100,'2018-11-12 12:00:12',null),
 (2,101,'2018-11-15 13:02:12',null),
 (3,102,'2018-11-17 14:05:20',null);
-insert into operater(id,ime,prezime,naBOlovanju) values
+insert into operater(id,ime,prezime,naBolovanju) values
 (1,'Adam','Labak',null),
 (2,'Matija','Kristek',null);
 insert into stavka(racun,proizvod,kolicina) values

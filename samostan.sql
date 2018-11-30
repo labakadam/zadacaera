@@ -14,7 +14,7 @@ samostan int not null,
 biskup int not null
 );
 create table posao(
-id int not null primary key auto_increment,
+id int not null primary key auto_increment, 
 naziv varchar(50),
 vrijeme datetime
 );
