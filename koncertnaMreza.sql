@@ -26,7 +26,7 @@ posluzitelj int not null
 );
 create table korisnickiRacun(
 id int not null primary key auto_increment,
-korisnik int not null,
+korisnik int not null, 
 lozinka varchar(50)
 );
 create table korisnikInformacija(
